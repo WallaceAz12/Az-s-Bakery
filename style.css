@@ -1,0 +1,65 @@
+
+h1{
+    font-size: 65px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: black;
+}
+background{
+    color: red;
+}
+
+.page1-h1{
+    color: blue;
+
+}
+.page1-h2{
+    font-size: 55px;
+    text-align: center;
+    color: red;
+}
+.pastries{
+    background-color: orange;
+}
+.deserts{
+   background-color: white;
+}
+body{
+    background-color: url(./images/cupcakes.jpg);
+}
+.pastriesh2{
+    color: brown;
+    font-size: 50px;
+    text-align: center;
+}
+.desertsh2{
+    color: yellow;
+    font-size: 50px;
+    text-align: center;
+}
+.menu{
+    background-image: url(./images/dessert.jpg);
+    backround-size: cover;
+}
+.main{
+    background-image: url(./images/cupcakes.jpg);
+    background-size: cover;
+}
+.about{
+    background-image: url(./images/family.jpg);
+    background-size: cover;
+}
+.azs-bakery{
+    font-size: 50px;
+    text-align: center;
+}
+.name{
+    color: blue;
+}
+.paragraph{
+    font-size: 30px;
+    color: Orange;
+}
+.azs-bakery{
+   color: orange;
+}
